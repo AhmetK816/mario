@@ -15,7 +15,7 @@
 . . . f 5 5 4 f e e f . . . . . 
 . . . . f f f f f f . . . . . . 
 . . . . . . f f f . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"kHm3G{%UddIu[7/yk?Dn"}}</data></shadow></value></block></statement></block><block type="pxt-on-start" id=",(A{cggd*,]mG4by#|S8" x="50" y="110"><statement name="HANDLER"><block type="gamesetbackgroundimage" id="U5@Ri%(_$hN0b|r7hzJ~"><value name="img"><shadow type="background_image_picker" id="uh|):y23e@IW]{N)/ke)"><field name="img">img`
+`</field><data>{"commentRefs":[],"fieldData":{"img":"kHm3G{%UddIu[7/yk?Dn"}}</data></shadow></value></block></statement></block><block type="pxt-on-start" id=",(A{cggd*,]mG4by#|S8" x="-190" y="110"><statement name="HANDLER"><block type="gamesetbackgroundimage" id="U5@Ri%(_$hN0b|r7hzJ~"><value name="img"><shadow type="background_image_picker" id="uh|):y23e@IW]{N)/ke)"><field name="img">img`
 eeeee2222222222222222222222222222222222ee2222ee2222ee2222222eeeee2222222222222222222222222222222222ee22222eeee222ee2eeeee2222222222222222222222222222222222ee222
 222eeeee22222222222222222222222222222eee2222eeee2222ee222222222eeeee22222222222222222222222222222eee2222eeeee222ee22222eeeee22222222222222222222222222222eee2222
 222222eeeeeee222222222222222222222eeee22222eeeeee2222eee2222222222eeeeeee222222222222222222222eeee22222eeee2222ee222222222eeeeeee222222222222222222222eeee22222e
